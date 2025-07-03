@@ -1,6 +1,8 @@
-## Hi there 👋
+## 介绍👋
 复旦大学自然语言处理实验室
+
 最新大模型相关项目请关注 https://github.com/OpenMOSS
+
 <!--
 
 **Here are some ideas to get you started:**
