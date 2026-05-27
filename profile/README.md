@@ -17,6 +17,7 @@ Our research spans pre-trained language models, dialogue, multilingual NLP, and 
 | Project | Description |
 | --- | --- |
 | [**fastNLP**](https://github.com/FudanNLP/fastNLP) | A modular and flexible NLP toolkit / 模块化、灵活的 NLP 工具包 |
+| [**fnlp**](https://github.com/FudanNLP/fnlp) | Chinese natural language processing toolkit (Java) / 中文自然语言处理工具包(Java) |
 | [**fastHan**](https://github.com/FudanNLP/fastHan) | All-in-one Chinese NLP toolkit / 一站式中文 NLP 工具包 |
 | [**fitlog**](https://github.com/FudanNLP/fitlog) | Experiment management for deep learning / 深度学习实验管理工具 |
 | [**CPT**](https://github.com/FudanNLP/CPT) | Pre-trained model for Chinese understanding and generation / 中文理解与生成预训练模型 |
